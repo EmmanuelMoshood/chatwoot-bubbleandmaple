@@ -9,7 +9,7 @@ gem 'rails', '~> 7.1'
 gem 'bootsnap', require: false
 
 ##-- rails application helper gems --##
-gem 'acts-as-taggable-on'
+gem 'acts-as-taggable-on', '~> 9.0'
 gem 'attr_extras'source 'https://rubygems.org'
 
 ruby '3.4.4'
